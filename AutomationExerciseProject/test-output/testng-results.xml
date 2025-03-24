@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-24T04:23:30Z" name="Default suite" finished-at="2025-03-24T04:23:47Z" duration-ms="17291">
+    <groups>
+    </groups>
+    <test started-at="2025-03-24T04:23:30Z" name="Default test" finished-at="2025-03-24T04:23:47Z" duration-ms="17291">
+      <class name="VerifyPaymentOption.VerifyPayment">
+        <test-method is-config="true" signature="setup()[pri:0, instance:VerifyPaymentOption.VerifyPayment@53fb3dab]" started-at="2025-03-24T09:53:30Z" name="setup" finished-at="2025-03-24T09:53:38Z" duration-ms="8256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="payment()[pri:0, instance:VerifyPaymentOption.VerifyPayment@53fb3dab]" started-at="2025-03-24T09:53:38Z" name="payment" finished-at="2025-03-24T09:53:47Z" duration-ms="9014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- payment -->
+      </class> <!-- VerifyPaymentOption.VerifyPayment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
